@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Landing Page</title>
+    <link rel="stylesheet" href="Landing.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Landing Page</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="Home">
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>My self Thrinesh I am from sullurpeta and i am persuing b tech second year in cse department</p>
+        </div>
+    </section>
+
+    <section id="features">
+        <div class="container">
+            <h2>Our Features</h2>
+            <div class="feature">
+                <h3>Feature 1</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+            <div class="feature">
+                <h3>Feature 2</h3>
+                <p>Nulla vel magna non lorem accumsan tincidunt.</p>
+            </div>
+            <div class="feature">
+                <h3>Feature 3</h3>
+                <p>Etiam hendrerit mi id mi consequat varius.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Email: pthrinesh42@gmail.com</p>
+            <p>Phone: 9704258439</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Email: pthrinesh42@gmail.com</p>
+            <p>Phone: 9704258439</p>
+        </div>
+    </footer>
+</body>
+</html>
